@@ -15,11 +15,11 @@ npx run dev - iniciar aplicao web porta 3000
 
 ### Ferramentas utilizadas
 
--next/react
--paginas estaticas e dinamicas
--typescript
--scss
--json-server
+-next/react<br/>
+-paginas estaticas e dinamicas<br/>
+-typescript<br/>
+-scss<br/>
+-json-server<br/>
 
 #### Resultado final
 
