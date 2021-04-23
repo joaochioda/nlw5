@@ -1,10 +1,10 @@
 # Aplicação NLW5 com next
 
-Criação de uma pagina que reproduz os podcasts cadastrados vindos de uma base.
-É possível reproduzir um ou uma lista de podcast;
-É possível ouvir em modo aleatório;
-É possível repetir o mesmo podcast;
-É possível pausar/continuar;
+Criação de uma pagina que reproduz os podcasts cadastrados vindos de uma base.<br/>
+É possível reproduzir um ou uma lista de podcast;<br/>
+É possível ouvir em modo aleatório;<br/>
+É possível repetir o mesmo podcast;<br/>
+É possível pausar/continuar;<br/>
 É possível clicar e ver mais informações do podcast com uma página dinâmica estática do Next.
 
 ## Rodar aplicação
