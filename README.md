@@ -58,15 +58,6 @@ From your command line:
 # Clone this repository
 $ git clone https://github.com/joaochioda/rockttutorial
 
-# Go into the back
-$ cd back
-
-# Install dependencies
-$ npm install
-
-# Run the server
-$ npm start
-
 # Go into the web
 $ cd web
 
