@@ -56,7 +56,7 @@ From your command line:
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/joaochioda/rockttutorial
+$ git clone https://github.com/joaochioda/nlw5
 
 # Go into the web
 $ cd web
